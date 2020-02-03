@@ -1,0 +1,10 @@
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\bin\Debug\Acciones.exe.config
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\bin\Debug\Acciones.exe
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\bin\Debug\Acciones.pdb
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\bin\Debug\Acciones.xml
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\obj\Debug\Acciones.Resources.resources
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\obj\Debug\Acciones.vbproj.GenerateResource.Cache
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\obj\Debug\Acciones.exe
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\obj\Debug\Acciones.xml
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\obj\Debug\Acciones.pdb
+c:\users\practicas\documents\visual studio 2013\Projects\Acciones\Acciones\obj\Debug\Acciones.Form1.resources
